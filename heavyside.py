@@ -1,5 +1,5 @@
 """
-File: <smoothedheavyside.py>
+File: <heavyside.py>
 
 Copyright (c) 2016 <Paloma Leiton>
 
